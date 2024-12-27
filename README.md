@@ -5,7 +5,7 @@ Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-📕Clique aqui para ler
+📕Clique aqui para ler "Ebook Desvendando a arte da música.pdf"
 
 💻 Tecnologias utilizadas no projeto
 ChatGPT
